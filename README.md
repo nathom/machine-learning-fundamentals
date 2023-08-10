@@ -1,3 +1,3 @@
-# machine-learning-fundamentals
+# Machine Learning Fundamentals for C
 
-Code for the www.nathom.dev series
+Code for the www.nathom.dev series.
